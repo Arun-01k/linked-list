@@ -1,0 +1,24 @@
+{
+  "name": "linked-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "linked-list.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arun-01k/linked-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Arun-01k/linked-list/issues"
+  },
+  "homepage": "https://github.com/Arun-01k/linked-list#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
